@@ -1,0 +1,10 @@
+RESOURCE_URL =src
+FRAME_CONFIG_FILE = E:\\Ap\\puzzle-game-master\\src\\resorce\\GamePanelConfigFile.Properties
+GAMEPANEL_CONFIG_FILE = E:\\Ap\\puzzle-game-master\\src\\resorce\\MainFrameConfigFile.Properties
+Constants = E:\\Ap\\puzzle-game-master\\src\\resorce\\ConstantsConfigFile.Properties
+Constants1 = E:\\Ap\\puzzle-game-master\\src\\resorce\\ConstantsConfigFile1.Properties
+Constants2 = E:\\Ap\\puzzle-game-master\\src\\resorce\\ConstantsConfigFile2.Properties
+Constants3 = E:\\Ap\\puzzle-game-master\\src\\resorce\\ConstantsConfigFile3.Properties
+Constants4 = E:\\Ap\\puzzle-game-master\\src\\resorce\\ConstantsConfigFile4.Properties
+Constants5 = E:\\Ap\\puzzle-game-master\\src\\resorce\\ConstantsConfigFile5.Properties
+Constants6 = E:\\Ap\\puzzle-game-master\\src\\resorce\\ConstantsConfigFile6.Properties
